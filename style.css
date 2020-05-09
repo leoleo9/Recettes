@@ -1,0 +1,22 @@
+header nav ul {
+    display: flex;
+}
+header nav ul li {
+    margin: 20px;
+    border: 1px yellow solid;
+    padding: 20px;
+    list-style: none;
+    background-color: orange;
+    border-radius: 10px;
+}
+header nav {
+    background-color: red;
+    border-radius: 20px;
+    margin: 20px;
+}
+header nav ul li:hover {
+    background-color: lightskyblue
+}
+body{
+    background-color: gold;
+}
